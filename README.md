@@ -1,5 +1,6 @@
 # 🎆🎉 Object_detection-End-to-End-project 🎉🎆
 ### feel free to create a pull request and improve this project...
+
 ## Project Overview
 
 * **Objective**: Develop an object detection system using the YOLOv5s pretrained model.
