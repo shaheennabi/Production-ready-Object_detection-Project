@@ -1,6 +1,6 @@
 # 🎆🎉 Object_detection-End-to-End-project 🎉🎆
 ### feel free to create a pull request and improve this project..
-the readme of this repo will  be updated with full pipeline explanation soon..
+the readme of this repo will be updated with full pipeline explanation soon..
 
 ## Project Overview
 
